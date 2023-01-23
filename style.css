@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 1rem;
+}
+
+.masonry-with-columns {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.masonry-with-columns img{
+ height: 16rem;
+  margin: 0 1rem 1rem 0;
+  flex: 1 0 auto;
+  overflow: hidden;
+}
+
